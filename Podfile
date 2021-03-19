@@ -1,0 +1,6 @@
+target 'TestProject' do
+  use_frameworks!
+
+  pod "SnapKit"
+
+end
